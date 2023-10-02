@@ -1,32 +1,29 @@
 {
-    "title":"Shweta's Kichen",
-    "description":"This is a shwetas kichen",
+    "title":"Sweet Shop",
 
-    "services": [
-        
+    "theme":{
+        "primaryColor":"#ffffff",
+        "secondaryColor":"#b35900",
+        "accentColor":"#fc05ff"
+    },
+    "services":[
         {
-            "title":"Service 1 ",
-            "description": "Services 1 description",
-            "price": 100,
-            "theme":{
-                "primaryColor":"blue",
-                "secondaryColor":"pink"
-            }
+            "title":"Cake",
+            "img": "https://m.media-amazon.com/images/I/61lc0PClPTL._AC_UF1000,1000_QL80_.jpg",
+            "description": " Cakes are often made to celebrate special occasions like birthdays or weddings.",
+            "price": 250
         },
         {
-            "title":"Service 2 ",
-            "description": "Services 2 description",
+            "title":"Kaju Katli",
+            "img": "https://static.toiimg.com/thumb/55048826.cms?imgsize=392932&width=800&height=800",
+            "description": "Kaju katli literally 'cashew slice', also known as kaju barfi, is an Indian dessert similar to a barfi.",
             "price": 200
         },
         {
-            "title":"Service 3 ",
-            "description": "Services 3 description",
+            "title":"Gulab Jamun",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKObd03kUy0Fwnw-7idHI_1j8buLdx2OgsKw&usqp=CAU",
+            "description": "Gulab jamun is an Indian dessert of fried dough balls that are soaked in a sweet, sticky sugar syrup. ",
             "price": 300
-        },
-        {
-            "title":"Service 4 ",
-            "description": "Services 4 description",
-            "price": 400
         }
     ]
 }
